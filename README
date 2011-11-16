@@ -1,1 +1,1 @@
-Ajax stubber is a test utility. It allows making sure that ajax success / or failure are called when required.
+Ajax stubber allows triggering of an invocation of ajax success or failure callbacks with the purpose of testing them.
